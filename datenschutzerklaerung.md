@@ -10,15 +10,12 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ## Verantwortlicher
 
-Institut für angewandte Futuristik e.V.<br/>
-Ulmer Str. 255<br/>
-70327 Stuttgart
+kombinat23 viktualien<br/>
+Gregor Jehle<br/>
+Heinrich-Baumann-Str. 15<br/>
+70190 Stuttgart
 
-kontakt@infuanfu.de
-
-Vereinsregister: VR 722905 (Amtsgericht Stuttgart)
-
-Vorstand: Lasse Pommerenke, Armin Bauer, Gregor Jehle
+kontakt@k23v.de
 
 ## Arten der verarbeiteten Daten:
 

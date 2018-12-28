@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Institut für angewandte Futuristik
-logo: /images/infuanfu_logo_render.png
-email: kontakt@infuanfu.de
+title: kombinat23 viktualien - artisanal, small-batch chili sauces
+logo: /images/k23v.png
+email: kontakt@k23v.de
 description: >- # this means to ignore newlines until "baseurl:"
-        Das Institut für angenwandte Futuristik bietet Raum und Kontext für
-        die Beschäftigung mit allen Themen welche mittelbar oder unmittelbar
-        der Gewährleistung einer Zukunft dienlich sind.
+        We're producing small-batch, artisanal chili sauces that combine
+        a potent kick with delicious flavors.
+        It's the sauce we wanted to have and never found, so we made it
+        ourselves. And now you can have it as well!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: infuanfu
-github_username: infuanfu
+twitter_username: k23v
 
 # Build settings
 markdown: kramdown
