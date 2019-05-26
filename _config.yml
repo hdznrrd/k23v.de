@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: kombinat23 viktualien - artisanal, small-batch chili sauces
-logo: /images/k23v.png
-email: kontakt@k23v.de
+logo: /images/k23v_logo_render.svg
+email: info@k23v.de
 description: >- # this means to ignore newlines until "baseurl:"
         We're producing small-batch, artisanal chili sauces that combine
         a potent kick with delicious flavors.
@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
         ourselves. And now you can have it as well!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: k23v
+#twitter_username: k23v
 
 # Build settings
 markdown: kramdown

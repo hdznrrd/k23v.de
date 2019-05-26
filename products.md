@@ -10,7 +10,7 @@ This means we produce exactly what's needed without wasteful overproduction.
 On the other hand, this means we cannot fulfill your order right away.
 Instead you acquire options on our next production batch which will be fulfilled as soon as the production run is completed.
 
-You can [learn more about how we produce our chili sauces and sambal mixes](/process) or [acquire options](/options) to the results of one of our next production runs.
+You can [get an overview of available sauces](/options) or [buy into previous and coming](/buy) production batches.
 
 # LAVA
 
@@ -19,9 +19,10 @@ We produced a very small laboratory batch for experimentation which yielded a pr
 
 We followed this up in 2017 with some minor tweaks to the recipe that resulted in **LAVA17**, improving on the sauce's texture.
 
-Encouraged by excellent feedback on the 2017 vintage we've decided to move forward with 2018's edition based on a similar recipe but augmenting the strong Habanero base with a selection of Scotch Bonnet peppers.
+Encouraged by excellent feedback on the 2017 vintage we've decided to move forward with 2018's edition based on a similar recipe but besides the classic Habanero flavor we've added Scotch Bonnet and Jalapeño to the lineup.
 
-2018 will be the first year we're going to [offer options on the **LAVA18** production batch for purchase](/options).
+What did not change is the very involved process that requires daily agitation of the fermenting chilis to ensure a high quality product and the individual handling of every single bottle from beginning of production to the moment we hand it over to you.
+
 
 # SAMBAL - OH, LECK!
 
