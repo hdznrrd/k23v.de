@@ -28,8 +28,10 @@ But we want to make sure a lactoferment successfully starts with high chance.
 What if we could use a lacto-ferment starter that's vegan (aka not milk-based) and someone else did the hard work of selecting the strain already?
 
 Luckily three's [Lambic](https://en.wikipedia.org/wiki/Lambic), or more specifically Cantillon's [Geuze](https://en.wikipedia.org/wiki/Gueuze).
-We've set up a small, experimental batch using Geuze that should be ready for 37C3 (if all the stars align).
+We've set up a small, experimental batch using Geuze that should be ready for 36C3 (if all the stars align).
 If this works we'll have fully vegan and lactose-free LAVA for upcoming batches :)
+
+**Update**: An earlier version mistakenly mentioned the experimental batch would be ready for 37C3. We of course meant 36C3, aka the end of 2019.
 
 ## Overstock
 If you did not meet us at camp, were not at camp yourself or already ran out of sauce, there's good news for you!
