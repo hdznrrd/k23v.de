@@ -22,8 +22,8 @@ The previous call ended in May, but there's some overstock left!
 # Previous vintages
 <table>
 <tr><th>Product</th>                             <th>Price</th>  <th>Availability</th></tr>
-<tr><td>LAVA18 Habanero (100 ml)</td>            <td>15 €</td>   <td>&#x274C;</td></tr>
-<tr><td>LAVA18 Scotch Bonnet (100 ml)</td>       <td>15 €</td>   <td>&#x274C;</td></tr>
+<tr><td>LAVA18 Habanero (100 ml)</td>            <td>15 €</td>   <td>&#x2713; (16 available)</td></tr>
+<tr><td>LAVA18 Scotch Bonnet (100 ml)</td>       <td>15 €</td>   <td>&#x2713; (4 available) </td></tr>
 <tr><td>LAVA18 Jalapeño (100 ml)</td>            <td>15 €</td>   <td>&#x274C;</td></tr>
 <tr><td>Sambal, Oh Leck! 2018 Habanero</td>      <td>n/a</td>    <td>&#x274C;</td></tr>
 <tr><td>Sambal, Oh Leck! 2018 Scotch Bonnet</td> <td>n/a</td>    <td>&#x274C;</td></tr>
