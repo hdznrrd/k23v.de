@@ -9,7 +9,7 @@ Our products are made on-demand in small scale batches.
 We're not directly selling products we made ahead of time but are instead collecting interest in the form of handed out options.
 Once sufficient options have been requested, we're starting the next production batch and everyone that has previously requested an option can exercise it as soon as the batch is ready.
 
-That's how we ensure to only procude exactly what's needed allowing us to minimize waste.
+That's how we ensure to only produce exactly what's needed allowing us to minimize waste.
 
 # "Ordering" process
 
@@ -28,13 +28,13 @@ Send an email to [info@k23v.de](mailto:info@k23v.de) with the following informat
 
 # Delivery
 
-Once the sauce is made and ready for you, there's again a few option:
+Once the sauce is made and ready for you, there's again a few options:
 
 * Arrange for a pick up in Stuttgart
 * Arrange for delivery to one of the big events we regularily attend (eg. Chaos Communication Congress and Chaos Communication Camp)
 * Get it shipped
 
-For reasons of sustainability and laziness we'd prefer not to ship individual bottles around the world.
+For reasons of sustainability and laziness we prefer not to ship individual bottles around the world.
 So if you really want to get sauce shipped, either order a few bottles or pool your order with a few friends.
 
 Pickup or delivery at events we're attending ourselves is free!
