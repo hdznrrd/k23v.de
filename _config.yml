@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: kombinat23 viktualien - artisanal, small-batch chili sauces
-logo: /images/k23v_logo_render.svg
+logo: /images/k23v_logo_kurz.svg
 email: info@k23v.de
 description: >- # this means to ignore newlines until "baseurl:"
         We're producing small-batch, artisanal chili sauces that combine
