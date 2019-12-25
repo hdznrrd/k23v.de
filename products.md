@@ -1,16 +1,28 @@
 ---
 layout: page
-title: Products
+title: About our Products
 permalink: /products/
 weight: 2
 ---
 
-We're producing our vintage sauces in pre-order, on-demand batches.
-This means we produce exactly what's needed without wasteful overproduction.
-On the other hand, this means we cannot fulfill your order right away.
-Instead you acquire options on our next production batch which will be fulfilled as soon as the production run is completed.
+We're producing our vintage sauces mostly in pre-order, on-demand batches.
+This means we produce what's needed with tight margins on overproduction and thus might not be able to fulfill your order right away.
 
-You can [get an overview of available sauces](/options) or [buy into previous and coming](/buy) production batches.
+However, there usually is some level of overproduction as a safety for every batch which is then available for order via our <a href="https://shop.k23v.de/">online shop</a>!
+
+
+
+# Our Process
+
+Our process of choice is cold fermentation.
+The chili mash is mixed with salt, sugar, and possibly garlic and other ingredients and then fermented at a controlled temperature for a given time.
+The longer the ferment, the more complex the flavors that develop.
+
+No two batches are really the same.
+Since our raw ingredients are natural products with certain variation and the fermentation process depends on environmental factors like saltiness, pH, temperature, and the (optional) starter culture used for seeding the ferment, flavors can vary quite a bit between batches.
+
+Our goal is to offer you tasty sauces that hit the perfect balance between spiciness and flavor.
+The fact that the exact outcome of a given batch is never known till the end, is what makes this interesting to us and offers you an ever changing selection of flavors that never get boring.
 
 # LAVA
 
